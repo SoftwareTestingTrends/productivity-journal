@@ -3,6 +3,7 @@ title: "Ultralearning - Take control of your learning"
 date: "2020-12-14"
 ---
 
+I recently read the book [Ultralearning by Scott H Young](https://www.scotthyoung.com/blog/ultralearning/) and started applying the techniques I learned to my own learning.  I created a template that I started applying to all my new learning projects. The results were amazing. My learning is now more focused and more organized. Wanna know more about my Ultralearning template? Keep reading 😀 
 ## What is Ultralearning?
 
 Ultralearning is a strategy for aggressive, self-directed learning.
