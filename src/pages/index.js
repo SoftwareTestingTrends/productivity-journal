@@ -7,7 +7,7 @@ const Index = () => {
       <h1>Welcome to the Productivity Journal 📘</h1>
       <div>
         <p>
-        Here, I am going to share the things that inspire me to reach my goals and boost my productivity. These things include (but are not limited to 🧐)
+        Here, I am going to share the things that inspire me to reach my goals and boost my productivity. These things include: (but are not limited to 🧐)
         </p>
         <ul>
           <li>📚 Inspiring Reads</li>
