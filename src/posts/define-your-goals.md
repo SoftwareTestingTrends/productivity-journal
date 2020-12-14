@@ -18,7 +18,7 @@ This method helps to timeline your goals to help achieving them
 This is a method used to break a big-picture goal down into smaller components. 
 
 ### What is Ultralearning?
-Ultralearning is a strategy for aggressive, self-directed learning. It's a strategy—meaning a choice about how to pursue learning to get results. It's aggressive—meaning aimed at doing what works, even if it's a little harder or intense. It's self-directed—meaning you're the one in control. --Scott H Young
+Ultralearning is a strategy for aggressive, self-directed learning. It's a strategy — meaning a choice about how to pursue learning to get results. It's aggressive—meaning aimed at doing what works, even if it's a little harder or intense. It's self-directed—meaning you're the one in control. --Scott H Young
 
 [Learn more](https://www.scotthyoung.com/blog/2016/07/28/ultralearn-diy-1/) about Ultralearning
 

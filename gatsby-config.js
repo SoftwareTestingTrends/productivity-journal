@@ -6,10 +6,10 @@
 
 module.exports = {
   /* Your site config here */
-  pathPrefix: "/tech-journal",
+  pathPrefix: "/productivity-journal",
   siteMetadata: {
-    title: "Tech Journal",
-    description: "Everything I like to learn & explore",
+    title: "The Productivity Journal",
+    description: "Everything You Need to Know To Get More Productive",
     author: "Ambreen Khan",
   },
   plugins: [
