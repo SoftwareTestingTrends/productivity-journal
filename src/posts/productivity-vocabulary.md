@@ -3,6 +3,8 @@ title: "Get aquainted with productivity vocabulary"
 date: "2020-11-28"
 ---
 
+Here, I am going to go through all those fancy ideas that really caught my attention and left me pondering for some time. I call it Productivity Vocabulary. So, here you go 😀
+
 ### What is a goal collection?
 This methods will help you get clarity about your goals and transform them from vague desires and daydreams into concrete objectives. 
 - Take a piece of paper and start writing ALL your goals, no matter how big or small.  
