@@ -37,6 +37,13 @@ Ultralearning is a strategy for aggressive, self-directed learning. It's a strat
 - Clarity & Competence are required to play  control
 - Achieve excellence, don’t just avoid errors
 
+### Frustration barrier
+- A term coined by Josh Kaufman defined as 
+> a period of time in which you're horribly unskilled, and you are painfully aware of that fact.
+- It takes about 20 hours of practice to break through the frustration barrier i.e to go from knowing absolutely nothing about what you are trying to do to performing noticeably well.
+
+Book Reference: The First 20 Hours - How to learn anything fast  
+
 ##### References
 * Book: “Turn the ship around” by L. David Marquet
 * [Talks at Google](https://www.youtube.com/watch?v=IzJL8zX3EVk) by L. David Marquet 
